@@ -1,0 +1,37 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+
+# Snakemake
+.snakemake/
+*.log
+*.err
+*.out
+
+# Conda
+*.yaml~
+envs/*/  # optional if dynamically created
+*.tar.gz
+
+# Data
+rawData/*
+!rawData/.gitkeep
+
+# Output
+assembly/
+*.bam
+*.sam
+*.fasta
+*.fa
+*.gz
+*.idx
+*.gff
+benchmark/
+logs/
+
