@@ -69,7 +69,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
-For any issues, please open an [issue](https://github.com/chandan/bacterial-assembly/issues).
+For any issues, please open an [issue](https://github.com/chandanbfx/bacterial-genome-assembly-pipeline/issues).
 
 ## Acknowledgments
 
