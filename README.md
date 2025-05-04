@@ -4,7 +4,7 @@ This repository contains a modular Snakemake pipeline for long-read-based bacter
 
 ---
 
-## 🧬 Dataset
+## Dataset
 
 You can download the PacBio long-read dataset used in this example with:
 
@@ -16,7 +16,7 @@ Place the downloaded file in the `rawData/` directory.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 .
@@ -39,7 +39,7 @@ Place the downloaded file in the `rawData/` directory.
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 1. **Setup conda environments** (if needed):
 
@@ -61,13 +61,13 @@ snakemake clean
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📫 Contact
+## Contact
 
 For any issues, please open an [issue](https://github.com/chandanbfx/bacterial-genome-assembly-pipeline/issues).
 
